@@ -48,8 +48,7 @@ python3 main.py
         - config.py
         - landlord.py
         - tenant.py
-    - houses.db
-    - LICENSE.md
+        - houses.db
     - main.py
     - README.md
     
@@ -60,8 +59,8 @@ python3 main.py
 - `lib/landlord.py`: Functions for managing landlords
 - `lib/tenant.py`: Functions for managing tenants
 - `main.py`: Entry point of the application
-- `LICENSE` : This project is licensed under the MIT License. By using this software, you agree to the terms outlined in the license.
 - `README.md`: Project README
+
 ## Running the Application
 
 To run the application, simply type `python3 main.py` in your terminal.
@@ -93,5 +92,6 @@ As a user, I should be able to;
 - Fetch apartment by landlord id
 - Get total number of all apartments 
 - Get all apartments in certain location
+
 ## Known Bugs
 The application works perfectly well, no bugs.
