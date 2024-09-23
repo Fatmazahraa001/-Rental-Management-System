@@ -92,6 +92,3 @@ As a user, I should be able to;
 - Fetch apartment by landlord id
 - Get total number of all apartments 
 - Get all apartments in certain location
-
-## Known Bugs
-The application works perfectly well, no bugs.
